@@ -8,7 +8,7 @@ Blockchain Engineer.
 - Tech Stack - Rust Cosmwasm, Anchor, Cosmos-Sdk, Solidity, Truffle, Hardhat, Waffle, Web3.js, Ether.js, Terra.js
 React, TypeScript, Tailwindcss, ChakraUI
 
-<img align="right" alt="GIF" src="https://github.com/evercreativedev/evercreativedev/blob/main/dev.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="400" height="256" />
 
 ✅ Blockchain
 -  Terra, Rust Cosmwasm, Solana, Rust Anchor, Program, SPL Token, Anchor, Metaplex, Candy Machine

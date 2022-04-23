@@ -4,8 +4,7 @@
 
 Blockchain Engineer.
 - I have over 6 years of experience in web & blockchain technology development and IT consult.
-- I have specialized the ICO, IDO, DeFi, DEX, DAO, NFT minting website and marketplace, NFT card and casino games on Ethereum, BSC and Solana.
-- I have completed a lot of ICO, IDO, DeFi, NFT Marketplace and Game projects using Solidity, Rust program language, Web3.js.
+- I have specialized the ICO, IDO, DeFi, DEX, DAO, STABLECOIN, NFT minting website and marketplace, NFT card and casino games on Terra, Ethereum, BSC and Solana.
 - Tech Stack - Rust Cosmwasm, Anchor, Cosmos-Sdk, Solidity, Truffle, Hardhat, Waffle, Web3.js, Ether.js, Terra.js
 React, TypeScript, Tailwindcss, ChakraUI
 

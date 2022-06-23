@@ -1,7 +1,7 @@
 ####      ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Near-blue)  ![](https://img.shields.io/badge/Juno-blue) ![](https://img.shields.io/badge/SCRT-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Vue-blue)
 
 ✅ Blockchain
--  Terra, Rust Cosmwasm, Solana, Rust Anchor, Program, SPL Token, Anchor, Metaplex, Candy Machine
+-  Near, Subtrate, SCRT, Juno, Terra, Solana
 -  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
 -  Binance Smart Chain, Smart Contract, Solidity, Web3.js, BEP20, BEP721, BEP1155
 -  Uniswap Fork, Pancakeswap Fork, Olympus Dao Fork

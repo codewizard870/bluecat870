@@ -1,15 +1,5 @@
 ####      ![](https://img.shields.io/badge/Blockchain-blue) ![](https://img.shields.io/badge/Near-blue)  ![](https://img.shields.io/badge/Juno-blue) ![](https://img.shields.io/badge/SCRT-blue) ![](https://img.shields.io/badge/Ethereum-blue) ![](https://img.shields.io/badge/Solana-blue) ![](https://img.shields.io/badge/Solidity-blue) ![](https://img.shields.io/badge/Web3.js-blue) ![](https://img.shields.io/badge/Smart%20Contracts-blue) ![](https://img.shields.io/badge/Cryptocurrency-blue) ![](https://img.shields.io/badge/React-blue) ![](https://img.shields.io/badge/Node-blue) ![](https://img.shields.io/badge/Vue-blue)
 
-### Hi there 👋
-
-Blockchain Engineer.
-- I have over 6 years of experience in web & blockchain technology development and IT consult.
-- I have specialized the ICO, IDO, DeFi, DEX, DAO, STABLECOIN, NFT minting website and marketplace, NFT card and casino games on Near, Subtrate, SCRT, Terra, Ethereum, BSC and Solana.
-- Tech Stack - Rust Cosmwasm, Anchor, Cosmos-Sdk, Solidity, Truffle, Hardhat, Waffle, Web3.js, Ether.js, Terra.js
-React, TypeScript, Tailwindcss, ChakraUI
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="400" height="256" />
-
 ✅ Blockchain
 -  Terra, Rust Cosmwasm, Solana, Rust Anchor, Program, SPL Token, Anchor, Metaplex, Candy Machine
 -  Ethereum, Smart Contract, Solidiity, Web3.js, ERC20, ERC721, ERC1155, Openzeppelin, Truffle, Hardhat.
